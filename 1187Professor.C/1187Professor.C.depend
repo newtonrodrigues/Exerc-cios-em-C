@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613886412 source:c:\users\newton\documents\Área de trabalho\c\exercícios\1187professor.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

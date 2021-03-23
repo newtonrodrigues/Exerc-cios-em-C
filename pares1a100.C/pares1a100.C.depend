@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612823774 source:c:\users\newton\documents\Área de trabalho\c\exercícios\pares1a100.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

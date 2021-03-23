@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613087686 source:c:\users\newton\documents\Área de trabalho\c\exercícios\matriz.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
